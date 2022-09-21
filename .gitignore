@@ -1,0 +1,3 @@
+# Ignore some local files
+obj/*
+bin/*
